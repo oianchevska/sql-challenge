@@ -1,0 +1,7 @@
+{
+ "db_name": "sql-homework",
+ "user": "postgres", 
+ "pwd": "temp$1234",
+ "host": "localhost",
+ "port": "5432"
+}
